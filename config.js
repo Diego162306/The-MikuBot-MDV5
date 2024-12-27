@@ -22,7 +22,7 @@ global.obtenerQrWeb = 0; //Solo valores: 1 o 0
 global.keepAliveRender = 0; //Solo valores: 1 o 0
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
-global.botNumberCode = "" //example: "+595976126756"
+global.botNumberCode = "+593993105225" //example: "+595976126756"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 // ❰❰ Multi Idioma Dinámico : Dynamic Multi Language (MID-GB) ❱❱
 // [ES] > Agregué uno de los idiomas disponibles para el Bot en "mid".
@@ -91,6 +91,7 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
 ["595976126756", 'AdrianOficial 💻', 1], 
+["593993105225", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 💻', 1],
 ["595982216131", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ["595994825505", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
 
